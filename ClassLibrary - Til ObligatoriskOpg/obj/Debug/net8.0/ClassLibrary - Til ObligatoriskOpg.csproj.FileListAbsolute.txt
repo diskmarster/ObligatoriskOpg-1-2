@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\bin\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.deps.json
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\bin\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.dll
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\bin\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.pdb
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.AssemblyInfo.cs
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.dll
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\refint\ClassLibrary - Til ObligatoriskOpg.dll
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ClassLibrary - Til ObligatoriskOpg.pdb
+C:\Users\Alex\source\repos\ClassLibrary - Til ObligatoriskOpg\ClassLibrary - Til ObligatoriskOpg\obj\Debug\net8.0\ref\ClassLibrary - Til ObligatoriskOpg.dll

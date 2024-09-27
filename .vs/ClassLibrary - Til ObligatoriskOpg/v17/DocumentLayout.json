@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex\\source\\repos\\ClassLibrary - Til ObligatoriskOpg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6A8B397-A44A-4AC7-9137-4F7AF584F230}|ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpg.csproj|c:\\users\\alex\\source\\repos\\classlibrary - til obligatoriskopg\\classlibrary - til obligatoriskopg\\trophiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6A8B397-A44A-4AC7-9137-4F7AF584F230}|ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpg.csproj|solutionrelative:classlibrary - til obligatoriskopg\\trophiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A11094ED-8515-416A-965B-936C1EF4920C}|ClassLibrary - Til ObligatoriskOpgTests\\ClassLibrary - Til ObligatoriskOpgTests.csproj|c:\\users\\alex\\source\\repos\\classlibrary - til obligatoriskopg\\classlibrary - til obligatoriskopgtests\\trophiesrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A11094ED-8515-416A-965B-936C1EF4920C}|ClassLibrary - Til ObligatoriskOpgTests\\ClassLibrary - Til ObligatoriskOpgTests.csproj|solutionrelative:classlibrary - til obligatoriskopgtests\\trophiesrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrophiesRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpgTests\\TrophiesRepositoryTests.cs",
+              "RelativeDocumentMoniker": "ClassLibrary - Til ObligatoriskOpgTests\\TrophiesRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpgTests\\TrophiesRepositoryTests.cs",
+              "RelativeToolTip": "ClassLibrary - Til ObligatoriskOpgTests\\TrophiesRepositoryTests.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAgwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:27:03.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrophiesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\source\\repos\\ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpg\\TrophiesRepository.cs",
+              "RelativeDocumentMoniker": "ClassLibrary - Til ObligatoriskOpg\\TrophiesRepository.cs",
+              "ToolTip": "C:\\Users\\Alex\\source\\repos\\ClassLibrary - Til ObligatoriskOpg\\ClassLibrary - Til ObligatoriskOpg\\TrophiesRepository.cs",
+              "RelativeToolTip": "ClassLibrary - Til ObligatoriskOpg\\TrophiesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T18:59:58.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
